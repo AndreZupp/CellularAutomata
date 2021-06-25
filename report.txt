@@ -1,0 +1,33 @@
+TRIAL 1
+
+GRID DIMENSION: 500X500 WITH BRIAN RULE, 5 TIMESTEPS, 
+
+	1 THREADS  tseq computed in 145184114 usec 
+	
+	2 THREADS  tpar computed in 147596721 usec 
+	
+	4 THREADS  tpar computed in 89142678 usec 
+	
+	8 THREADS  tpar computed in 71777485 usec 
+	
+	12 THREADS tpar computed in 71505284 usec 
+
+
+UPDATED RESULTS
+
+	1 THREAD    tseq computed in 1576744 usec 
+	
+	2 THREADS   tpar computed in  797010 usec 
+	
+	4 THREADS   tpar computed in  425465 usec 
+
+	8 THREADS   tpar computed in  350227 usec 
+
+	12 THREADS  tpar computed in  259579 usec 
+	
+	16 THREADS  tpar computed in  280897 usec 
+
+
+
+
+	
